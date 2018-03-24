@@ -12,6 +12,7 @@
 //
 //= require rails-ujs
 //= require jquery
-//= require materialize
+//= require jquery_ujs
+//= require twitter/bootstrap
 //= require_tree .
 
